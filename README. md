@@ -1,1 +1,30 @@
-
+``html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Age with Dignity - Nsukka</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
+header { background: #0066cc; color: #fff; padding: 2rem; text-align: center; }
+section { padding: 2rem; max-width: 800px; margin: auto; }
+.btn { display: inline-block; background: #28a745; color: #fff; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 5px; }
+footer { background: #f4f4f4; text-align: center; padding: 1rem; position: fixed; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<header>
+<h1>Age with Dignity</h1>
+<p>Connecting Community, Combating Isolation in Nsukka</p>
+</header>
+<section>
+<h2>About Our Campaign</h2>
+<p>We pair compassionate student volunteers with isolated older adults to provide companionship, support, and meaningful connection.</p>
+<a href="#" class="btn">Get Involved</a>
+</section>
+<footer>
+<p>© 2026 Age with Dignity Initiative</p>
+</footer>
+</body>
+</html>
